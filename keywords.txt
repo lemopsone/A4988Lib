@@ -1,0 +1,9 @@
+A4988	KEYWORD1
+setupDriveUnit	KEYWORD2
+setMicrostep	KEYWORD2
+setRPM	KEYWORD2
+move	KEYWORD2
+setDeg	KEYWORD2
+moveABS	KEYWORD2
+setEncoder	KEYWORD2
+getEncoder	KEYWORD2
